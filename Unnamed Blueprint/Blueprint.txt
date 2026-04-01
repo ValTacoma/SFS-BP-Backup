@@ -1,0 +1,1983 @@
+{
+  "center": 10.0,
+  "parts": [
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 22.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.1,
+        "width_a": 13.100000381469727,
+        "width_b": 13.100000381469727,
+        "height": 0.2,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 22.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.1,
+        "width_a": 13.100000381469727,
+        "width_b": 13.100000381469727,
+        "height": 0.2,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 23.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.1,
+        "width_a": 13.100000381469727,
+        "width_b": 13.100000381469727,
+        "height": 0.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.6,
+        "y": 23.5
+      },
+      "o": {
+        "x": 0.9,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.0,
+        "width_a": 13.0,
+        "width_b": 13.0,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 12.1,
+        "y": 22.5
+      },
+      "o": {
+        "x": 0.4,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.0,
+        "width_a": 13.0,
+        "width_b": 13.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 24.44
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.1,
+        "width_a": 13.100000381469727,
+        "width_b": 13.100000381469727,
+        "height": 0.1,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal_3",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.4,
+        "y": 21.5
+      },
+      "o": {
+        "x": -0.4,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.0,
+        "width_a": 13.0,
+        "width_b": 13.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.6,
+        "y": 21.5
+      },
+      "o": {
+        "x": 0.4,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.0,
+        "width_a": 13.0,
+        "width_b": 13.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 5.14999962,
+        "y": 21.5
+      },
+      "o": {
+        "x": -0.2,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 5.60000038,
+        "y": 21.5
+      },
+      "o": {
+        "x": 0.2,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.85,
+        "y": 21.5
+      },
+      "o": {
+        "x": 0.2,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.4,
+        "y": 21.5
+      },
+      "o": {
+        "x": -0.2,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.85,
+        "y": 23.0
+      },
+      "o": {
+        "x": 0.2,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.3,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.8,
+        "y": 22.9
+      },
+      "o": {
+        "x": 0.5,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 4.0,
+        "width_a": 4.0,
+        "width_b": 4.0,
+        "height": 0.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_White",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 21.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.0,
+        "width_a": 13.0,
+        "width_b": 13.0,
+        "height": 3.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 21.4
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.1,
+        "width_a": 13.100000381469727,
+        "width_b": 13.0,
+        "height": 0.1,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal_3",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 21.1999989
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 12.9,
+        "width_a": 12.899999618530273,
+        "width_b": 13.100000381469727,
+        "height": 0.2,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 25.2799988
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.95,
+        "width_a": 13.949999809265137,
+        "width_b": 13.949999809265137,
+        "height": 0.08,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.3,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 25.0700035
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.95,
+        "width_a": 13.949999809265137,
+        "width_b": 13.949999809265137,
+        "height": 0.08,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.3,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 25.3599968
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.8,
+        "width_a": 13.800000190734863,
+        "width_b": 13.949999809265137,
+        "height": 0.08,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 24.9900055
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.8,
+        "width_a": 13.800000190734863,
+        "width_b": 13.949999809265137,
+        "height": 0.08,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 24.9400063
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.6,
+        "width_a": 13.600000381469727,
+        "width_b": 13.800000190734863,
+        "height": 0.05,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.7,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 25.409996
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.6,
+        "width_a": 13.600000381469727,
+        "width_b": 13.800000190734863,
+        "height": 0.05,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.7,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 25.1500015
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 14.0,
+        "width_a": 14.0,
+        "width_b": 14.0,
+        "height": 0.05,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "Flat Smooth 4"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 3.25,
+        "y": 25.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 35.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 16.7,
+        "y": 25.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 335.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.1,
+        "width_a": 0.10000000149011612,
+        "width_b": 0.10000000149011612,
+        "height": 0.5,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 4.10000038,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 26.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 3.0,
+        "width_a": 3.0,
+        "width_b": 3.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 5.35000038,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 18.9999943
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 6.85000038,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 12.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 8.0,
+        "width_a": 8.0,
+        "width_b": 8.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.85,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 6.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 12.0,
+        "width_a": 12.0,
+        "width_b": 12.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 15.6,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 334.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 3.0,
+        "width_a": 3.0,
+        "width_b": 3.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.0,
+        "y": 24.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 13.0,
+        "width_a": 13.100000381469727,
+        "width_b": 13.0,
+        "height": 3.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 14.35,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 342.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.0,
+        "width_a": 5.0,
+        "width_b": 5.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 12.85,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 348.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 8.0,
+        "width_a": 8.0,
+        "width_b": 8.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 10.85,
+        "y": 25.0
+      },
+      "o": {
+        "x": 0.09,
+        "y": -1.0,
+        "z": 354.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 12.0,
+        "width_a": 12.0,
+        "width_b": 12.0,
+        "height": 0.4,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Strut 2"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.1,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 10.0,
+        "y": 21.2
+      },
+      "o": {
+        "x": 88.0,
+        "y": -12.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.1
+      },
+      "T": {
+        "color_tex": "Metal",
+        "shape_tex": "_"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.9,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 6.999996,
+        "y": 20.7499981
+      },
+      "o": {
+        "x": 27.0,
+        "y": -5.0,
+        "z": 160.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": 0.0,
+        "intensity": 1.0,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 7.000004,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": 25.0,
+        "y": -7.0,
+        "z": 180.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 7.000003,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.08,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.079999998211860657,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 7.000004,
+        "y": 19.4499969
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.06,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.059999998658895493,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 7.0,
+        "y": 17.0
+      },
+      "o": {
+        "x": 30.0,
+        "y": 30.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 13.0000038,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": -1.00179122E-05
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.08,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.079999998211860657,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 12.9999962,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": -25.0,
+        "y": -7.0,
+        "z": 180.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 13.0000038,
+        "y": 20.7500019
+      },
+      "o": {
+        "x": 27.0,
+        "y": -5.0,
+        "z": 200.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": 0.0,
+        "intensity": 1.0,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 6.500004,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": 190.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.01,
+        "width_a": 0.0099999997764825821,
+        "width_b": 0.0099999997764825821,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 6.500004,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": 190.0,
+        "y": -70.0,
+        "z": 180.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.01
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 6.500004,
+        "y": 19.4499989
+      },
+      "o": {
+        "x": 190.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.008,
+        "width_a": 0.0099999997764825821,
+        "width_b": 0.00800000037997961,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 6.500001,
+        "y": 17.0
+      },
+      "o": {
+        "x": 230.0,
+        "y": 240.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.01
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 13.4999962,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": -190.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.01,
+        "width_a": 0.0099999997764825821,
+        "width_b": 0.0099999997764825821,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 13.4999962,
+        "y": 20.4499989
+      },
+      "o": {
+        "x": -190.0,
+        "y": -70.0,
+        "z": 180.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.01
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 13.4999962,
+        "y": 19.4499989
+      },
+      "o": {
+        "x": -190.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.008,
+        "width_a": 0.0099999997764825821,
+        "width_b": 0.00800000037997961,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 13.499999,
+        "y": 17.0
+      },
+      "o": {
+        "x": -230.0,
+        "y": 240.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.01
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 8.75,
+        "y": 17.0
+      },
+      "o": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.5
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 8.750003,
+        "y": 20.75
+      },
+      "o": {
+        "x": 4.1,
+        "y": 0.8,
+        "z": 340.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.5
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 8.750003,
+        "y": 20.45
+      },
+      "o": {
+        "x": -4.0,
+        "y": 1.1,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.5
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.750003,
+        "y": 20.45
+      },
+      "o": {
+        "x": 4.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 8.750004,
+        "y": 19.4499969
+      },
+      "o": {
+        "x": 4.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.35,
+        "width_a": 0.5,
+        "width_b": 0.34999999403953552,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 13.0000038,
+        "y": 19.4499969
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": -1.00179122E-05
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.06,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.059999998658895493,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 13.0,
+        "y": 17.0
+      },
+      "o": {
+        "x": 30.0,
+        "y": 30.0,
+        "z": -1.00179122E-05
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.000004,
+        "y": 18.9499969
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.06,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.059999998658895493,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 9.0,
+        "y": 16.5
+      },
+      "o": {
+        "x": 30.0,
+        "y": 30.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 9.000003,
+        "y": 19.9499989
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.08,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.079999998211860657,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 9.000004,
+        "y": 19.9499989
+      },
+      "o": {
+        "x": 25.0,
+        "y": -7.0,
+        "z": 180.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 8.999996,
+        "y": 20.2499981
+      },
+      "o": {
+        "x": 27.0,
+        "y": -5.0,
+        "z": 160.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": 0.0,
+        "intensity": 1.0,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 11.0,
+        "y": 16.5
+      },
+      "o": {
+        "x": 30.0,
+        "y": 30.0,
+        "z": -1.00179122E-05
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.0000038,
+        "y": 18.9499969
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": -1.00179122E-05
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.06,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.059999998658895493,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.0000038,
+        "y": 19.9499989
+      },
+      "o": {
+        "x": 25.0,
+        "y": -1.0,
+        "z": -1.00179122E-05
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.08,
+        "width_a": 0.079999998211860657,
+        "width_b": 0.079999998211860657,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 10.9999962,
+        "y": 19.9499989
+      },
+      "o": {
+        "x": -25.0,
+        "y": -7.0,
+        "z": 180.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": -90.0,
+        "intensity": 0.5,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 11.0000038,
+        "y": 20.2500019
+      },
+      "o": {
+        "x": 27.0,
+        "y": -5.0,
+        "z": 200.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.08
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      },
+      "burns": {
+        "angle": 0.0,
+        "intensity": 1.0,
+        "x": 0.0,
+        "top": "",
+        "bottom": ""
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 11.25,
+        "y": 17.0
+      },
+      "o": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.5
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Cone Round",
+      "p": {
+        "x": 11.2499962,
+        "y": 20.75
+      },
+      "o": {
+        "x": 4.1,
+        "y": -0.8,
+        "z": 199.999985
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.5
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces Bottom"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.2500029,
+        "y": 20.45
+      },
+      "o": {
+        "x": 4.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.5,
+        "width_a": 0.5,
+        "width_b": 0.5,
+        "height": 1.0,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat Smooth 4"
+      }
+    },
+    {
+      "n": "Cone Side",
+      "p": {
+        "x": 11.2499971,
+        "y": 20.45
+      },
+      "o": {
+        "x": 4.0,
+        "y": 1.1,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "size": 0.5
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Flat"
+      }
+    },
+    {
+      "n": "Fuel Tank",
+      "p": {
+        "x": 11.2500038,
+        "y": 19.4499969
+      },
+      "o": {
+        "x": 4.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 0.35,
+        "width_a": 0.5,
+        "width_b": 0.34999999403953552,
+        "height": 0.8,
+        "fuel_percent": 1.0
+      },
+      "T": {
+        "color_tex": "Color_Black",
+        "shape_tex": "Edges Faces"
+      }
+    }
+  ],
+  "stages": [],
+  "rotation": 0.0,
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "interiorView": false
+}
